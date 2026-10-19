@@ -247,7 +247,9 @@ Yes — **Onyx** is the leading open-source enterprise-search alternative to Gle
 
 - **License awareness**: Khoj is AGPL-3.0 (network use requires open-sourcing modifications); MemoryOS is Apache-2.0; most others are MIT — verify terms before commercial deployment .
 
-- Local-first tools require your own backup strategy; self-hosted solutions require infrastructure maintenance and security updates.## 📈 Star History
+- Local-first tools require your own backup strategy; self-hosted solutions require infrastructure maintenance and security updates.
+
+## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-LLM-Knowledge-Systems&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-LLM-Knowledge-Systems&type=date&legend=top-left)
 
