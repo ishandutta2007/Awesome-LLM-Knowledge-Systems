@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
+  - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
 - [How to Contribute](#how-to-contribute)
@@ -39,6 +41,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 ## SaaS/Hosted Platforms
+
+### Sector Overview & Market Dynamics
+
+**Market size:** The knowledge-management software market is estimated at **$20.1B in 2024** and forecast to reach **$62.2B by 2033 (13.6% CAGR)** by Grand View Research (Mordor Intelligence models a smaller $13.7B for 2025, 18.3% CAGR to 2031) — while the AI-native slice, generative AI in enterprise knowledge management & search, is the fast lane: **$6.18B in 2025 → $27.4B by 2031 at ~28.6% CAGR**.
+
+**Fragmentation vs. concentration:** Classic KM tooling is a **moderately fragmented** market — no winner-take-all dynamic, with a long tail of point solutions (Notion, Obsidian, Roam, Slite) coexisting alongside broader suites, and Mordor rating provider concentration as "medium." The newer AI search / organizational-knowledge layer is **moderately concentrated and platform-led** — Microsoft 365 Copilot, Google, AWS, Salesforce and Glean take most of the enterprise mind-share — but it is not yet winner-take-all: specialists and open-source alternatives keep winning segments.
 
 Pricing verified as of October 2026. Rows are **sorted by company size (descending)** — latest publicly known revenue/valuation figures (estimates from third parties are marked as such). "Free tier" states the exact free-forever limits, or the length/limits of the free trial when no free plan exists.
 
