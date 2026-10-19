@@ -243,3 +243,5 @@ Star the repo if you find it useful!
 **Made for knowledge workers, researchers, AI engineers, and privacy-conscious organizations.**  
 
 Let's make knowledge systems more open, local-first, and vendor-neutral.
+# Awesome-LLM-Knowledge-Systems
+
