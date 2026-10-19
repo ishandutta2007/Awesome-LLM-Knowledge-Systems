@@ -2,6 +2,10 @@
 
 > The **Awesome-LLM-Knowledge-Systems** list: the best **LLM knowledge systems**, **AI knowledge-management software**, **RAG (retrieval-augmented generation) platforms**, **agent-memory frameworks**, and **self-hosted "second brain" tools** — curated SaaS and open-source GitHub projects in one place.
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome LLM Knowledge Systems — animated banner: RAG, agent memory and AI knowledge management, SaaS and open source" width="100%"/>
+</p>
+
 ## Top LLM Knowledge Systems Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  

@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="bTitle bDesc">
+  <title id="bTitle">Awesome LLM Knowledge Systems</title>
+  <desc id="bDesc">RAG, Agent Memory and AI Knowledge Management — SaaS and open-source curated list</desc>
+
+  <defs>
+    <!-- Animated background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0f1f">
+        <animate attributeName="stop-color" values="#0a0f1f;#141238;#0a0f1f" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#111a38">
+        <animate attributeName="stop-color" values="#111a38;#0d2440;#111a38" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#0d1226">
+        <animate attributeName="stop-color" values="#0d1226;#1a1140;#0d1226" dur="14s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.55" stop-color="#e4ecff"/>
+      <stop offset="1" stop-color="#c7f5e6"/>
+    </linearGradient>
+
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="textShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="6" flood-color="#000000" flood-opacity="0.75"/>
+    </filter>
+
+    <style>
+      .pill-text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; }
+      .title-text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; letter-spacing: 1.5px; }
+      .sub-text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 500; letter-spacing: 0.6px; }
+    </style>
+  </defs>
+
+  <!-- ============ DYNAMIC BACKGROUND (all behind the text plate) ============ -->
+  <g id="dynamic-layer">
+    <!-- base -->
+    <rect width="1200" height="360" fill="url(#bg)"/>
+
+    <!-- drifting glow blobs -->
+    <circle cx="180" cy="90" r="170" fill="url(#glowA)">
+      <animate attributeName="cx" values="180;320;180" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;140;90" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1030" cy="270" r="190" fill="url(#glowB)">
+      <animate attributeName="cx" values="1030;900;1030" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="270;220;270" dur="13s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- flowing data curves -->
+    <g fill="none" stroke-linecap="round" stroke-opacity="0.55">
+      <path d="M-40,120 C250,40 420,190 700,110 C930,50 1080,150 1240,90" stroke="#38bdf8" stroke-width="2.5" stroke-dasharray="14 12">
+        <animate attributeName="stroke-dashoffset" values="0;-260" dur="6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M-40,255 C220,320 460,180 720,265 C960,335 1090,230 1240,285" stroke="#a78bfa" stroke-width="2.5" stroke-dasharray="14 12">
+        <animate attributeName="stroke-dashoffset" values="0;260" dur="7s" repeatCount="indefinite"/>
+      </path>
+      <path d="M-40,190 C300,150 500,240 760,175 C980,125 1100,205 1240,170" stroke="#34d399" stroke-width="1.8" stroke-dasharray="6 14" stroke-opacity="0.4">
+        <animate attributeName="stroke-dashoffset" values="0;-200" dur="9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- knowledge graph nodes + pulsing rings -->
+    <g>
+      <g>
+        <circle cx="120" cy="180" r="7" fill="#38bdf8"/>
+        <circle cx="120" cy="180" r="7" fill="none" stroke="#38bdf8" stroke-width="2">
+          <animate attributeName="r" values="7;20;7" dur="3s" repeatCount="indefinite"/>
+          <animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="3s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <g>
+        <circle cx="1085" cy="160" r="6" fill="#a78bfa"/>
+        <circle cx="1085" cy="160" r="6" fill="none" stroke="#a78bfa" stroke-width="2">
+          <animate attributeName="r" values="6;18;6" dur="3.6s" repeatCount="indefinite"/>
+          <animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="3.6s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <g>
+        <circle cx="620" cy="66" r="6" fill="#34d399"/>
+        <circle cx="620" cy="66" r="6" fill="none" stroke="#34d399" stroke-width="2">
+          <animate attributeName="r" values="6;17;6" dur="4.2s" repeatCount="indefinite"/>
+          <animate attributeName="stroke-opacity" values="0.9;0;0.9" dur="4.2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+      <!-- faint connecting edges -->
+      <g stroke="#8fb8ff" stroke-opacity="0.35" stroke-width="1.4" fill="none">
+        <path d="M120,180 L620,66 L1085,160"/>
+        <path d="M120,180 L430,300 L1085,160"/>
+        <path d="M430,300 L780,300 L1085,160"/>
+      </g>
+      <circle cx="430" cy="300" r="5" fill="#fbbf24"/>
+      <circle cx="780" cy="300" r="5" fill="#f472b6"/>
+    </g>
+
+    <!-- floating pills (drift up/down, stay behind the title plate) -->
+    <g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="5s" repeatCount="indefinite"/>
+        <rect x="46" y="40" width="158" height="34" rx="17" fill="#38bdf8" fill-opacity="0.16" stroke="#38bdf8" stroke-opacity="0.6"/>
+        <text class="pill-text" x="125" y="62" text-anchor="middle" fill="#93e0ff">Retrieval (RAG)</text>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 9; 0 0" dur="6.2s" repeatCount="indefinite"/>
+        <rect x="246" y="46" width="150" height="34" rx="17" fill="#a78bfa" fill-opacity="0.16" stroke="#a78bfa" stroke-opacity="0.6"/>
+        <text class="pill-text" x="321" y="68" text-anchor="middle" fill="#cbb8ff">Agent Memory</text>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="7s" repeatCount="indefinite"/>
+        <rect x="700" y="42" width="176" height="34" rx="17" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.6"/>
+        <text class="pill-text" x="788" y="64" text-anchor="middle" fill="#8ff0cf">Knowledge Graph</text>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 10; 0 0" dur="5.6s" repeatCount="indefinite"/>
+        <rect x="936" y="44" width="132" height="34" rx="17" fill="#f472b6" fill-opacity="0.15" stroke="#f472b6" stroke-opacity="0.6"/>
+        <text class="pill-text" x="1002" y="66" text-anchor="middle" fill="#ffb3d5">Second Brain</text>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -9; 0 0" dur="6.8s" repeatCount="indefinite"/>
+        <rect x="60" y="290" width="160" height="34" rx="17" fill="#fbbf24" fill-opacity="0.14" stroke="#fbbf24" stroke-opacity="0.6"/>
+        <text class="pill-text" x="140" y="312" text-anchor="middle" fill="#ffd88a">Vector Search</text>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 9; 0 0" dur="5.2s" repeatCount="indefinite"/>
+        <rect x="278" y="296" width="146" height="34" rx="17" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.55"/>
+        <text class="pill-text" x="351" y="318" text-anchor="middle" fill="#93e0ff">Embeddings</text>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="6.5s" repeatCount="indefinite"/>
+        <rect x="856" y="292" width="158" height="34" rx="17" fill="#a78bfa" fill-opacity="0.15" stroke="#a78bfa" stroke-opacity="0.6"/>
+        <text class="pill-text" x="935" y="314" text-anchor="middle" fill="#cbb8ff">Context Layers</text>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 8; 0 0" dur="7.4s" repeatCount="indefinite"/>
+        <rect x="1052" y="300" width="112" height="34" rx="17" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.55"/>
+        <text class="pill-text" x="1108" y="322" text-anchor="middle" fill="#8ff0cf">Self-Host</text>
+      </g>
+    </g>
+
+    <!-- subtle scan beam sweeping across -->
+    <rect x="-260" y="0" width="180" height="360" fill="#ffffff" opacity="0.05">
+      <animateTransform attributeName="transform" type="translate" values="-260 0; 1460 0" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- ============ FOREGROUND: title & subtitle plate (drawn last = on top) ============ -->
+  <g id="foreground">
+    <rect x="168" y="112" width="864" height="150" rx="26" fill="#070b18" fill-opacity="0.68" stroke="url(#accent)" stroke-opacity="0.65" stroke-width="2"/>
+    <text class="title-text" x="600" y="182" text-anchor="middle" font-size="54" fill="url(#titleGrad)" filter="url(#textShadow)">AWESOME LLM KNOWLEDGE SYSTEMS</text>
+    <rect x="420" y="198" width="360" height="4" rx="2" fill="url(#accent)">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <text class="sub-text" x="600" y="234" text-anchor="middle" font-size="21" fill="#cdd8f5" filter="url(#textShadow)">RAG &#183; Agent Memory &#183; AI Knowledge Management &#8212; SaaS &amp; Open Source</text>
+  </g>
+</svg>
