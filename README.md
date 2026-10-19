@@ -1,5 +1,9 @@
 # Awesome LLM Knowledge Systems — RAG, Agent Memory & AI Knowledge Management
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/Awesome-LLM-Knowledge-Systems/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ishandutta2007/Awesome-LLM-Knowledge-Systems?style=flat-square" /></a><a href="https://github.com/ishandutta2007/Awesome-LLM-Knowledge-Systems/pulls"><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-LLM-Knowledge-Systems?style=flat-square" /></a>
+</p>
+
 > The **Awesome-LLM-Knowledge-Systems** list: the best **LLM knowledge systems**, **AI knowledge-management software**, **RAG (retrieval-augmented generation) platforms**, **agent-memory frameworks**, and **self-hosted "second brain" tools** — curated SaaS and open-source GitHub projects in one place.
 
 <p align="center">
