@@ -1,7 +1,7 @@
 # Awesome LLM Knowledge Systems — RAG, Agent Memory & AI Knowledge Management
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/Awesome-LLM-Knowledge-Systems/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ishandutta2007/Awesome-LLM-Knowledge-Systems?style=flat-square" /></a><a href="https://github.com/ishandutta2007/Awesome-LLM-Knowledge-Systems/pulls"><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-LLM-Knowledge-Systems?style=flat-square" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><a href="https://github.com/ishandutta2007/Awesome-LLM-Knowledge-Systems/stargazers"><img alt="GitHub_Stars" src="https://img.shields.io/github/stars/ishandutta2007/Awesome-LLM-Knowledge-Systems?style=flat-square" /></a><a href="https://github.com/ishandutta2007/Awesome-LLM-Knowledge-Systems/pulls"><img alt="Pull requests" src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-LLM-Knowledge-Systems?style=flat-square" /></a><a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > The **Awesome-LLM-Knowledge-Systems** list: the best **LLM knowledge systems**, **AI knowledge-management software**, **RAG (retrieval-augmented generation) platforms**, **agent-memory frameworks**, and **self-hosted "second brain" tools** — curated SaaS and open-source GitHub projects in one place.
@@ -79,121 +79,121 @@ Curated **AI knowledge-management software** and hosted **LLM knowledge platform
 
 ## 🐙 Open-Source GitHub Projects
 
-🌟 **Open-source RAG frameworks, self-hosted knowledge bases, and agent-memory systems on GitHub** — every entry carries a live **star badge** (`style=social`) that links to that repository's stargazers page; the list is **sorted by GitHub stars (descending)**, star counts as of October 2026.
+🌟 **Open-source RAG frameworks, self-hosted knowledge bases, and agent-memory systems on GitHub** — every entry carries a live **Stars_Badge** (`style=social`) that links to that repository's stargazers page; the list is **sorted by GitHub_Stars (descending)**, Stars_Counts as of October 2026.
 
-- **[mem0](https://github.com/mem0ai/mem0)** [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
+- **[mem0](https://github.com/mem0ai/mem0)** [![GitHub_Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
 
   **Production memory layer for LLM applications and agents** — remembers user preferences, facts and conversation history across sessions with a drop-in API (managed or self-hostable), combining vector and graph recall. MIT licensed .
 
-- **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
+- **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![GitHub_Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
 
   **All-in-one desktop AI app and RAG pipeline** — chat with documents and websites, run local models (Ollama, LM Studio) or cloud LLMs, multi-user workspaces, and agent skills. Apache-2.0 licensed .
 
-- **[LlamaIndex KG](https://github.com/run-llama/llama_index)** [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
+- **[LlamaIndex KG](https://github.com/run-llama/llama_index)** [![GitHub_Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
 
   **Data framework for LLM knowledge systems** — knowledge-graph integration, indexing and retrieval over any data source, with MIT license .
 
-- **[Quivr](https://github.com/QuivrHQ/quivr)** [![GitHub stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social&color=white)](https://github.com/QuivrHQ/quivr/stargazers)  
+- **[Quivr](https://github.com/QuivrHQ/quivr)** [![GitHub_Stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=social&color=white)](https://github.com/QuivrHQ/quivr/stargazers)  
 
   **Open-source "second brain" / GenAI workspace** — chat with your docs, notes and files in a self-hosted workspace, with sync from common drives and work apps .
 
-- **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
+- **[Khoj](https://github.com/khoj-ai/khoj)** [![GitHub_Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers)  
 
   **Self-hosted AI second brain** — indexes Obsidian vaults, org-mode files, PDFs, Word docs, GitHub repos, and Notion pages. Bring your own LLM (local or cloud). Docker Compose setup in ~30 minutes. AGPL-3.0 licensed. The only serious FOSS option for personal knowledge integration with local filesystems .
 
-- **[GraphRAG (Microsoft)](https://github.com/microsoft/graphrag)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)  
+- **[GraphRAG (Microsoft)](https://github.com/microsoft/graphrag)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social&color=white)](https://github.com/microsoft/graphrag/stargazers)  
 
   **MIT-licensed knowledge-graph-based RAG** — builds entity graphs from corpora for complex question answering and corpus-level summarization .
 
-- **[Onyx](https://github.com/onyx-dot-app/onyx)** [![GitHub stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
+- **[Onyx](https://github.com/onyx-dot-app/onyx)** [![GitHub_Stars](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=social&color=white)](https://github.com/onyx-dot-app/onyx/stargazers)  
 
   **Open-source alternative to Glean and enterprise ChatGPT** — ingests knowledge from connected applications (Google Drive, Slack, Confluence, etc.) to build an organizational context layer. Features contextual retrieval, advanced RAG, hybrid search, and AI-generated knowledge graphs. Made for security, data privacy, and self-hosting .
 
-- **[Cognee](https://github.com/topoteretes/cognee)** [![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social&color=white)](https://github.com/topoteretes/cognee/stargazers)  
+- **[Cognee](https://github.com/topoteretes/cognee)** [![GitHub_Stars](https://img.shields.io/github/stars/topoteretes/cognee?style=social&color=white)](https://github.com/topoteretes/cognee/stargazers)  
 
   **Knowledge-graph memory engine for AI agents** — "Extract, Cognify, Graphify" pipelines that turn any data into semantic graphs agents can query, with ECL-ready memory retrieval .
 
-- **[Supermemory](https://github.com/supermemoryai/supermemory)** [![GitHub stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social&color=white)](https://github.com/supermemoryai/supermemory/stargazers)  
+- **[Supermemory](https://github.com/supermemoryai/supermemory)** [![GitHub_Stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=social&color=white)](https://github.com/supermemoryai/supermemory/stargazers)  
 
   **Universal knowledge and memory API** — stores, links and retrieves bookmarks, notes, PDFs and media as one graph for AI apps and agents .
 
-- **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)  
+- **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)  
 
   **Production-grade LLM orchestration framework by deepset** — composable RAG pipelines, retrieval, embeddings and agent components, Apache-2.0 licensed .
 
-- **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
+- **[Letta (MemGPT)](https://github.com/letta-ai/letta)** [![GitHub_Stars](https://img.shields.io/github/stars/letta-ai/letta?style=social&color=white)](https://github.com/letta-ai/letta/stargazers)  
 
   **Stateful LLM agents with advanced memory management** — formerly MemGPT; paginated long-term memory, context editing and tool self-editing for persistent agents .
 
-- **[DocsGPT](https://github.com/arc53/DocsGPT)** [![GitHub stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white)](https://github.com/arc53/DocsGPT/stargazers)  
+- **[DocsGPT](https://github.com/arc53/DocsGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/arc53/DocsGPT?style=social&color=white)](https://github.com/arc53/DocsGPT/stargazers)  
 
   **Open-source RAG assistant for documentation** — indexes your docs and answers questions with source links; MIT licensed .
 
-- **[txtai](https://github.com/neuml/txtai)** [![GitHub stars](https://img.shields.io/github/stars/neuml/txtai?style=social&color=white)](https://github.com/neuml/txtai/stargazers)  
+- **[txtai](https://github.com/neuml/txtai)** [![GitHub_Stars](https://img.shields.io/github/stars/neuml/txtai?style=social&color=white)](https://github.com/neuml/txtai/stargazers)  
 
   **All-in-one embeddings database** — semantic search, RAG and LLM workflow orchestration that runs fully locally; Apache-2.0 licensed .
 
-- **[KAG/OpenSPG](https://github.com/OpenSPG/KAG)** [![GitHub stars](https://img.shields.io/github/stars/OpenSPG/KAG?style=social&color=white)](https://github.com/OpenSPG/KAG/stargazers)  
+- **[KAG/OpenSPG](https://github.com/OpenSPG/KAG)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenSPG/KAG?style=social&color=white)](https://github.com/OpenSPG/KAG/stargazers)  
 
   **Apache-2.0 licensed knowledge-augmented generation framework** — mutual enhancement of knowledge graphs and LLM reasoning for domain Q&A .
 
-- **[Zep](https://github.com/getzep/zep)** [![GitHub stars](https://img.shields.io/github/stars/getzep/zep?style=social&color=white)](https://github.com/getzep/zep/stargazers)  
+- **[Zep](https://github.com/getzep/zep)** [![GitHub_Stars](https://img.shields.io/github/stars/getzep/zep?style=social&color=white)](https://github.com/getzep/zep/stargazers)  
 
   **Memory layer for AI assistants** — temporal knowledge graphs that extract short- and long-term memory from conversations for fast, low-hallucination recall .
 
-- **[MemoryOS](https://aihub.caict.ac.cn/codes/BAI-LAB/MemoryOS)** [![GitHub stars](https://img.shields.io/github/stars/BAI-LAB/MemoryOS?style=social&color=white)](https://github.com/BAI-LAB/MemoryOS/stargazers)  
+- **[MemoryOS](https://aihub.caict.ac.cn/codes/BAI-LAB/MemoryOS)** [![GitHub_Stars](https://img.shields.io/github/stars/BAI-LAB/MemoryOS?style=social&color=white)](https://github.com/BAI-LAB/MemoryOS/stargazers)  
 
   **Large model memory operating system from Beijing University of Posts and Telecommunications** — hierarchical storage with short-term, mid-term, and long-term persona memory. Automated user profile and knowledge updating. Achieved 49% F1 improvement on LoCoMo benchmark. Apache 2.0 licensed .
 
-- **[LLM Wiki](https://github.com/nvk/llm-wiki)** [![GitHub stars](https://img.shields.io/github/stars/nvk/llm-wiki?style=social&color=white)](https://github.com/nvk/llm-wiki/stargazers)  
+- **[LLM Wiki](https://github.com/nvk/llm-wiki)** [![GitHub_Stars](https://img.shields.io/github/stars/nvk/llm-wiki?style=social&color=white)](https://github.com/nvk/llm-wiki/stargazers)  
 
   **Topic-based knowledge compiler with session memory** — ingests URLs, files, PDFs, and collections (Git repos, MediaWiki dumps, message archives). Features operational memory layer for session recovery, specialist skills, and collection adapters. Markdown-based, Obsidian-compatible .
 
-- **[Flexible GraphRAG MCP](https://pypi.org/project/flexible-graphrag-mcp/)** [![GitHub stars](https://img.shields.io/github/stars/stevereiner/flexible-graphrag?style=social&color=white)](https://github.com/stevereiner/flexible-graphrag/stargazers)  
+- **[Flexible GraphRAG MCP](https://pypi.org/project/flexible-graphrag-mcp/)** [![GitHub_Stars](https://img.shields.io/github/stars/stevereiner/flexible-graphrag?style=social&color=white)](https://github.com/stevereiner/flexible-graphrag/stargazers)  
 
   **MCP server for GraphRAG with 14 data sources** — filesystem, Alfresco, SharePoint, Box, Google Drive and more, with OAuth2 bearer token support .
 
-- **[Swafra](https://pypi.org/project/swafra/)** [![GitHub stars](https://img.shields.io/github/stars/kunal12203/swafra?style=social&color=white)](https://github.com/kunal12203/swafra/stargazers)  
+- **[Swafra](https://pypi.org/project/swafra/)** [![GitHub_Stars](https://img.shields.io/github/stars/kunal12203/swafra?style=social&color=white)](https://github.com/kunal12203/swafra/stargazers)  
 
   **Leiden-chunked graph-linked semantic memory as an MCP server** — local embeddings with fastembed, no database required .
 
-- **[MemOS](https://pypi.org/project/mem-os-python/)** [![GitHub stars](https://img.shields.io/github/stars/Markgatcha/memos?style=social&color=white)](https://github.com/Markgatcha/memos/stargazers)  
+- **[MemOS](https://pypi.org/project/mem-os-python/)** [![GitHub_Stars](https://img.shields.io/github/stars/Markgatcha/memos?style=social&color=white)](https://github.com/Markgatcha/memos/stargazers)  
 
   **TypeScript/Python memory OS with graph storage** — FTS5 search, typed edges, auto-linking, and LangChain/CrewAI/Ollama adapters. Local SQLite storage at ~/.memos/memos.db .
 
-- **[Agent Memory OS](https://pypi.org/project/agent-memory-os/)** [![GitHub stars](https://img.shields.io/github/stars/yamantaka520/Agent-Memory-OS?style=social&color=white)](https://github.com/yamantaka520/Agent-Memory-OS/stargazers)  
+- **[Agent Memory OS](https://pypi.org/project/agent-memory-os/)** [![GitHub_Stars](https://img.shields.io/github/stars/yamantaka520/Agent-Memory-OS?style=social&color=white)](https://github.com/yamantaka520/Agent-Memory-OS/stargazers)  
 
   **Local-first memory engine for AI agents** — single or multi-agent with shared/private memories, associative recall, memory lifecycle (decay, pinning, expiry), and per-agent recall profiles. SQLite FTS5 as source of truth with optional turbovec vector sidecar. Zero core dependencies .
 
-- **[Dewey](https://pkg.go.dev/github.com/unbound-force/dewey/v3)** [![GitHub stars](https://img.shields.io/github/stars/unbound-force/dewey?style=social&color=white)](https://github.com/unbound-force/dewey/stargazers)  
+- **[Dewey](https://pkg.go.dev/github.com/unbound-force/dewey/v3)** [![GitHub_Stars](https://img.shields.io/github/stars/unbound-force/dewey?style=social&color=white)](https://github.com/unbound-force/dewey/stargazers)  
 
   **MCP server for Obsidian and Logseq vaults** — compiles learnings into knowledge articles, lints for quality issues, promotes drafts after review. Go-based with Homebrew/RPM/go install. SQLite index at .uf/dewey/graph.db .
 
-- **[OpenNexus](https://github.com/KiriAky107/OpenNexus)** [![GitHub stars](https://img.shields.io/github/stars/KiriAky107/OpenNexus?style=social&color=white)](https://github.com/KiriAky107/OpenNexus/stargazers)  
+- **[OpenNexus](https://github.com/KiriAky107/OpenNexus)** [![GitHub_Stars](https://img.shields.io/github/stars/KiriAky107/OpenNexus?style=social&color=white)](https://github.com/KiriAky107/OpenNexus/stargazers)  
 
   **Local-first AI notebook with knowledge retrieval and auditable agents** — Tauri 2 + Vue 3 desktop app with FastAPI AI Core for RAG, ASR, and agent loops. Features multi-agent collaboration, review/restore note changes, benchmark comparison, and MCP support. Strict security boundaries with path checking and keychain storage .
 
-- **[nbrag](https://pypi.org/project/nbrag/)** [![GitHub stars](https://img.shields.io/github/stars/ydf0509/nbrag?style=social&color=white)](https://github.com/ydf0509/nbrag/stargazers)  
+- **[nbrag](https://pypi.org/project/nbrag/)** [![GitHub_Stars](https://img.shields.io/github/stars/ydf0509/nbrag?style=social&color=white)](https://github.com/ydf0509/nbrag/stargazers)  
 
   **Hybrid search RAG with MCP tools** — vector + BM25 → RRF → rerank pipeline. 11 retrieval tools plus navigation. AST-based Python definition finding. Supports HTTP mode for shared server processes .
 
-- **[MemoryAgent](https://pypi.org/project/memoryagent-lib/)** [![GitHub stars](https://img.shields.io/github/stars/jia-wei-zheng/MemoryAgent?style=social&color=white)](https://github.com/jia-wei-zheng/MemoryAgent/stargazers)  
+- **[MemoryAgent](https://pypi.org/project/memoryagent-lib/)** [![GitHub_Stars](https://img.shields.io/github/stars/jia-wei-zheng/MemoryAgent?style=social&color=white)](https://github.com/jia-wei-zheng/MemoryAgent/stargazers)  
 
   **Modular memory framework for LLM agents** — tiered memory (working, episodic, semantic, perceptual) with hot/cold storage, archive indexing, and confidence-based retrieval escalation. Local SQLite + sqlite-vec vector search. MIT licensed .
 
-- **[OmniRAG](https://pypi.org/project/omnirag/)** [![GitHub stars](https://img.shields.io/github/stars/Giri530/omnirag?style=social&color=white)](https://github.com/Giri530/omnirag/stargazers)  
+- **[OmniRAG](https://pypi.org/project/omnirag/)** [![GitHub_Stars](https://img.shields.io/github/stars/Giri530/omnirag?style=social&color=white)](https://github.com/Giri530/omnirag/stargazers)  
 
   **Universal RAG combining Liquid + Agentic + Chain architectures** — 100% free with HuggingFace models and FAISS, CPU-friendly .
 
-- **[KaaS (Knowledge as a Service)](https://github.com/Rainer51777/kaas)** [![GitHub stars](https://img.shields.io/github/stars/Rainer51777/kaas?style=social&color=white)](https://github.com/Rainer51777/kaas/stargazers)  
+- **[KaaS (Knowledge as a Service)](https://github.com/Rainer51777/kaas)** [![GitHub_Stars](https://img.shields.io/github/stars/Rainer51777/kaas?style=social&color=white)](https://github.com/Rainer51777/kaas/stargazers)  
 
   **Turns scattered notes, docs, and transcripts into a queryable Markdown wiki** — LLM knowledge-base compiler with MCP access. **No embeddings required** — uses LLM-powered compilation. Self-hosted with Docker, OpenAI-compatible API support (OpenAI, DeepSeek, Ollama, vLLM, Azure). Cross-platform binaries for Linux and macOS .
 
-- **[Griot](https://pypi.org/project/griot-rag/)** [![GitHub stars](https://img.shields.io/github/stars/johnt1000/griot?style=social&color=white)](https://github.com/johnt1000/griot/stargazers)  
+- **[Griot](https://pypi.org/project/griot-rag/)** [![GitHub_Stars](https://img.shields.io/github/stars/johnt1000/griot?style=social&color=white)](https://github.com/johnt1000/griot/stargazers)  
 
   **Agent-first knowledge retrieval with MCP server** — indexes GitHub, GitLab, Bitbucket, Azure DevOps, and Gitea platforms. Credential storage in OS keychain. Designed for agent-assisted workflows with read-only tool permissions .
 
-- **[SemantixRAG](https://pypi.org/project/semantixrag/)** [![GitHub stars](https://img.shields.io/github/stars/SemantixRAG/SemantixRAG?style=social&color=white)](https://github.com/SemantixRAG/SemantixRAG/stargazers)  
+- **[SemantixRAG](https://pypi.org/project/semantixrag/)** [![GitHub_Stars](https://img.shields.io/github/stars/SemantixRAG/SemantixRAG?style=social&color=white)](https://github.com/SemantixRAG/SemantixRAG/stargazers)  
 
   **Enterprise RAG with GraphRAG (Neo4j), GuardRail compliance (PII detection, GDPR DSAR), and observability** — full Docker Compose stack .
 
