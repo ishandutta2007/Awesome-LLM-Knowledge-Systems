@@ -6,13 +6,13 @@
   <img src="assets/banner.svg" alt="Awesome LLM Knowledge Systems — animated banner: RAG, agent memory and AI knowledge management, SaaS and open source" width="100%"/>
 </p>
 
-## Top LLM Knowledge Systems Ecosystem
+## 🧠 Top LLM Knowledge Systems Ecosystem
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**🚀 Curated List of SaaS Products & Open-Source GitHub Projects**  
 
 *Focused on Personal Knowledge Management, Organizational Context Layers & Agent Memory Systems*  
 
-**Last updated: October 2026**
+🕒 **Last updated: October 2026**
 
 
 
@@ -20,62 +20,62 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 
 
-**Examples** include Notion AI, Glean, Guru AI, Slite AI, Coda AI, Mem.ai, Capacities, Tana, Roam Research, and Obsidian Sync (the category leaders).
+🌟 **Examples** include Notion AI, Glean, Guru AI, Slite AI, Coda AI, Mem.ai, Capacities, Tana, Roam Research, and Obsidian Sync (the category leaders).
 
 
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local-first knowledge management, and transparent agent memory — ideal for researchers, teams, and individuals building vendor-neutral, privacy-preserving knowledge systems.
+💻 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local-first knowledge management, and transparent agent memory — ideal for researchers, teams, and individuals building vendor-neutral, privacy-preserving knowledge systems.
 
 
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+🎉 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+- 💼 [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
-  - [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+  - 📈 [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+- 🐙 [Open-Source GitHub Projects](#open-source-github-projects)
 
-- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+- ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 
-- [How to Contribute](#how-to-contribute)
+- 🤝 [How to Contribute](#how-to-contribute)
 
-- [Disclaimer](#disclaimer)
+- ⚠️ [Disclaimer](#disclaimer)
 
 
 
-## SaaS/Hosted Platforms
+## 💼 SaaS/Hosted Platforms
 
 Curated **AI knowledge-management software** and hosted **LLM knowledge platforms** for teams — compare each product's pricing, free tier and company size below.
 
-### Sector Overview & Market Dynamics
+### 📈 Sector Overview & Market Dynamics
 
-**Market size:** The knowledge-management software market is estimated at **$20.1B in 2024** and forecast to reach **$62.2B by 2033 (13.6% CAGR)** by Grand View Research (Mordor Intelligence models a smaller $13.7B for 2025, 18.3% CAGR to 2031) — while the AI-native slice, generative AI in enterprise knowledge management & search, is the fast lane: **$6.18B in 2025 → $27.4B by 2031 at ~28.6% CAGR**.
+🌍 **Market size:** The knowledge-management software market is estimated at **$20.1B in 2024** and forecast to reach **$62.2B by 2033 (13.6% CAGR)** by Grand View Research (Mordor Intelligence models a smaller $13.7B for 2025, 18.3% CAGR to 2031) — while the AI-native slice, generative AI in enterprise knowledge management & search, is the fast lane: **$6.18B in 2025 → $27.4B by 2031 at ~28.6% CAGR**.
 
-**Fragmentation vs. concentration:** Classic KM tooling is a **moderately fragmented** market — no winner-take-all dynamic, with a long tail of point solutions (Notion, Obsidian, Roam, Slite) coexisting alongside broader suites, and Mordor rating provider concentration as "medium." The newer AI search / organizational-knowledge layer is **moderately concentrated and platform-led** — Microsoft 365 Copilot, Google, AWS, Salesforce and Glean take most of the enterprise mind-share — but it is not yet winner-take-all: specialists and open-source alternatives keep winning segments.
+🧩 **Fragmentation vs. concentration:** Classic KM tooling is a **moderately fragmented** market — no winner-take-all dynamic, with a long tail of point solutions (Notion, Obsidian, Roam, Slite) coexisting alongside broader suites, and Mordor rating provider concentration as "medium." The newer AI search / organizational-knowledge layer is **moderately concentrated and platform-led** — Microsoft 365 Copilot, Google, AWS, Salesforce and Glean take most of the enterprise mind-share — but it is not yet winner-take-all: specialists and open-source alternatives keep winning segments.
 
-Pricing verified as of October 2026. Rows are **sorted by company size (descending)** — latest publicly known revenue/valuation figures (estimates from third parties are marked as such). "Free tier" states the exact free-forever limits, or the length/limits of the free trial when no free plan exists.
+💰 Pricing verified as of October 2026. Rows are **sorted by company size (descending)** — latest publicly known revenue/valuation figures (estimates from third parties are marked as such). "Free tier" states the exact free-forever limits, or the length/limits of the free trial when no free plan exists.
 
 | Product | Company Size (revenue / valuation) | Description | Pricing (cheapest paid plan) | Free Tier / Trial Limits |
 | --- | --- | --- | --- | --- |
-| **[Notion AI](https://www.notion.so/product/ai)** | **≈$11B valuation (Jan 2026)**; $500M+ annualized revenue (2025) | AI writing assistant and Q&A system integrated into Notion workspace; indexes pages for contextual answers but only within Notion's cloud ecosystem. | **Business (AI included): $20/seat/mo billed annually** ($24/mo monthly); standalone AI credit packs at **$10 per 1,000 monthly credits**. | **Free plan**: unlimited blocks for a 1-person workspace; **1,000-block cap** for workspaces with 2+ members; 10 guests; files ≤5 MB; limited complimentary AI answers. **30-day** Business trial for eligible teams. |
-| **[Glean](https://www.glean.com/)** | **≈$7.2B valuation (Jun 2025)**; $100M+ ARR (FY ending Jan 2025) | Enterprise search and knowledge discovery platform that connects to 100+ SaaS applications to build an organizational knowledge graph with AI-powered answers. | **Enterprise contract, sales-quoted** — no public self-serve per-seat price published. | **No free-forever plan**; demo-led **time-boxed POC trial arranged with sales** (duration/limits not published; confirmed only via sales in the website terms). |
-| **[Coda AI](https://coda.io/product/ai)** *(now Superhuman Docs)* | **≈$1.4B valuation (2021 Series D)**; acquired by Grammarly (Dec 2024) | AI-enhanced document platform combining docs, spreadsheets, and automation with AI summarization and content generation (acquired by Grammarly, 2024). | **Pro: $12/Doc Maker/mo billed annually** ($15 monthly); **Business: $33/Doc Maker/mo annual**; editors & viewers free. | **Free plan**: unlimited members; shared docs capped at **50 objects and 1,000 table rows**, **1 GB/doc** attachments, **10 MB/file**; AI on a limited free credit allotment. |
-| **[Roam Research](https://roamresearch.com/)** | ≈$200M valuation (2020); ≈$5M revenue (2024 est.) | Bi-directional linking note-taking tool with graph database foundation and AI features for networked thought. | **Pro: $165/yr per user** (≈$13.75/mo); or **$15/mo** billed monthly. | **No free-forever plan**; **31-day free trial**. |
-| **[Mem.ai](https://mem.ai/)** | ≈$110M valuation (Nov 2022, $23.5M round) | AI-powered note-taking system with automatic organization, smart search, and self-organizing knowledge base capabilities; no self-host option available. Now positioned as an AI "chief of staff" (Mem Agent). | **Mem Plus: $9/mo** (monthly billing shown). | **Free plan**: **25 messages** to Mem Agent + **25 new notes per month**. |
-| **[Tana](https://tana.inc/)** | ≈$100M valuation (Feb 2025, $14M Series A) | Node-based knowledge management with AI-powered supertags, automatic meeting notes, and structured data capture. | **Pro: $20/user/mo early-bird** ($30/user/mo regular rate). | **Free plan**: **5 AI-transcribed/summarized meetings/mo**, **1 connected calendar**, **50 AI queries**; **30-day Pro trial**, no credit card. |
-| **[Guru AI](https://www.getguru.com/)** | ≈$63M revenue (2023, 3rd-party est.); ~$30M total funding | Knowledge management platform with AI-powered verification, card-based content, and Slack/Teams integration for internal team knowledge. | **Custom scoped contract (sales-quoted)** — the former public Starter ($10/seat class) per-seat tiers are no longer listed. | **No public free plan currently** (the earlier Starter tier was free for the **first 10 users**); **no published trial length** on the live pricing page. |
-| **[Obsidian Sync](https://obsidian.md/sync)** | ≈$25M ARR (2026, unverified est.); independent & user-supported | Official sync service for Obsidian's local-first markdown vaults; end-to-end encrypted but AI features require third-party plugins or external tools. | **Sync Standard: $4/user/mo billed annually** ($5 monthly) — 1 vault, 1 GB storage, 5 MB max file, 1 month version history. | **Obsidian app is free forever** for personal and commercial use (local-first markdown, no device limits); the **Sync service itself has no free tier**; optional one-time **$25 Catalyst** license. |
-| **[Slite AI](https://slite.com/)** | ≈$5.5M revenue (2024 est.); ~32 employees | Collaborative knowledge base with AI Q&A, automatic content suggestions, and team wiki features. | **Basic: $10/user/mo billed annually**; **Pro: $20/user/mo billed annually** (30 AI questions/mo on Basic; 50 credits/seat/mo on Pro). | **No free-forever plan**; **14-day free trial**, no credit card, full Basic/Pro feature access. |
-| **[Capacities](https://capacities.io/)** | ≈$0.4M revenue (2025 est.); bootstrapped, ~4 employees | Note-taking app with object-based organization (people, books, ideas) and AI-powered connections between notes. | **Pro: $9.99/mo billed yearly** (Believer tier from $12.49/mo; students 40% off ≈ $5.99/mo). | **Free plan**: unlimited spaces, objects and blocks; sync on all devices; **5 GB total media storage, then 100 MB/mo**. |
+| **[✍️ Notion AI](https://www.notion.so/product/ai)** | **≈$11B valuation (Jan 2026)**; $500M+ annualized revenue (2025) | AI writing assistant and Q&A system integrated into Notion workspace; indexes pages for contextual answers but only within Notion's cloud ecosystem. | **Business (AI included): $20/seat/mo billed annually** ($24/mo monthly); standalone AI credit packs at **$10 per 1,000 monthly credits**. | **Free plan**: unlimited blocks for a 1-person workspace; **1,000-block cap** for workspaces with 2+ members; 10 guests; files ≤5 MB; limited complimentary AI answers. **30-day** Business trial for eligible teams. |
+| **[🔍 Glean](https://www.glean.com/)** | **≈$7.2B valuation (Jun 2025)**; $100M+ ARR (FY ending Jan 2025) | Enterprise search and knowledge discovery platform that connects to 100+ SaaS applications to build an organizational knowledge graph with AI-powered answers. | **Enterprise contract, sales-quoted** — no public self-serve per-seat price published. | **No free-forever plan**; demo-led **time-boxed POC trial arranged with sales** (duration/limits not published; confirmed only via sales in the website terms). |
+| **[📄 Coda AI](https://coda.io/product/ai)** *(now Superhuman Docs)* | **≈$1.4B valuation (2021 Series D)**; acquired by Grammarly (Dec 2024) | AI-enhanced document platform combining docs, spreadsheets, and automation with AI summarization and content generation (acquired by Grammarly, 2024). | **Pro: $12/Doc Maker/mo billed annually** ($15 monthly); **Business: $33/Doc Maker/mo annual**; editors & viewers free. | **Free plan**: unlimited members; shared docs capped at **50 objects and 1,000 table rows**, **1 GB/doc** attachments, **10 MB/file**; AI on a limited free credit allotment. |
+| **[🕸️ Roam Research](https://roamresearch.com/)** | ≈$200M valuation (2020); ≈$5M revenue (2024 est.) | Bi-directional linking note-taking tool with graph database foundation and AI features for networked thought. | **Pro: $165/yr per user** (≈$13.75/mo); or **$15/mo** billed monthly. | **No free-forever plan**; **31-day free trial**. |
+| **[🧠 Mem.ai](https://mem.ai/)** | ≈$110M valuation (Nov 2022, $23.5M round) | AI-powered note-taking system with automatic organization, smart search, and self-organizing knowledge base capabilities; no self-host option available. Now positioned as an AI "chief of staff" (Mem Agent). | **Mem Plus: $9/mo** (monthly billing shown). | **Free plan**: **25 messages** to Mem Agent + **25 new notes per month**. |
+| **[🏷️ Tana](https://tana.inc/)** | ≈$100M valuation (Feb 2025, $14M Series A) | Node-based knowledge management with AI-powered supertags, automatic meeting notes, and structured data capture. | **Pro: $20/user/mo early-bird** ($30/user/mo regular rate). | **Free plan**: **5 AI-transcribed/summarized meetings/mo**, **1 connected calendar**, **50 AI queries**; **30-day Pro trial**, no credit card. |
+| **[📇 Guru AI](https://www.getguru.com/)** | ≈$63M revenue (2023, 3rd-party est.); ~$30M total funding | Knowledge management platform with AI-powered verification, card-based content, and Slack/Teams integration for internal team knowledge. | **Custom scoped contract (sales-quoted)** — the former public Starter ($10/seat class) per-seat tiers are no longer listed. | **No public free plan currently** (the earlier Starter tier was free for the **first 10 users**); **no published trial length** on the live pricing page. |
+| **[🔐 Obsidian Sync](https://obsidian.md/sync)** | ≈$25M ARR (2026, unverified est.); independent & user-supported | Official sync service for Obsidian's local-first markdown vaults; end-to-end encrypted but AI features require third-party plugins or external tools. | **Sync Standard: $4/user/mo billed annually** ($5 monthly) — 1 vault, 1 GB storage, 5 MB max file, 1 month version history. | **Obsidian app is free forever** for personal and commercial use (local-first markdown, no device limits); the **Sync service itself has no free tier**; optional one-time **$25 Catalyst** license. |
+| **[📚 Slite AI](https://slite.com/)** | ≈$5.5M revenue (2024 est.); ~32 employees | Collaborative knowledge base with AI Q&A, automatic content suggestions, and team wiki features. | **Basic: $10/user/mo billed annually**; **Pro: $20/user/mo billed annually** (30 AI questions/mo on Basic; 50 credits/seat/mo on Pro). | **No free-forever plan**; **14-day free trial**, no credit card, full Basic/Pro feature access. |
+| **[🧩 Capacities](https://capacities.io/)** | ≈$0.4M revenue (2025 est.); bootstrapped, ~4 employees | Note-taking app with object-based organization (people, books, ideas) and AI-powered connections between notes. | **Pro: $9.99/mo billed yearly** (Believer tier from $12.49/mo; students 40% off ≈ $5.99/mo). | **Free plan**: unlimited spaces, objects and blocks; sync on all devices; **5 GB total media storage, then 100 MB/mo**. |
 
-## Open-Source GitHub Projects
+## 🐙 Open-Source GitHub Projects
 
-**Open-source RAG frameworks, self-hosted knowledge bases, and agent-memory systems on GitHub** — every entry carries a live **star badge** (`style=social`) that links to that repository's stargazers page; the list is **sorted by GitHub stars (descending)**, star counts as of October 2026.
+🌟 **Open-source RAG frameworks, self-hosted knowledge bases, and agent-memory systems on GitHub** — every entry carries a live **star badge** (`style=social`) that links to that repository's stargazers page; the list is **sorted by GitHub stars (descending)**, star counts as of October 2026.
 
 - **[mem0](https://github.com/mem0ai/mem0)** [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
 
@@ -195,45 +195,45 @@ Pricing verified as of October 2026. Rows are **sorted by company size (descendi
 
 
 
-**Frameworks for building custom systems**: Combine **Onyx** for organizational context, **Khoj** for personal file indexing, **mem0**, **Letta**, **Cognee** or **Zep** for agent memory, and **MCP servers** (Dewey, Griot, nbrag, Flexible GraphRAG MCP) for agent tool integration. For GraphRAG, layer in **Neo4j** with **SemantixRAG** or **Microsoft GraphRAG**. For document-first assistants, reach for **AnythingLLM**, **Quivr** or **DocsGPT**; for full retrieval pipelines use **Haystack**, **txtai** or **LlamaIndex**. For lightweight personal systems, **KaaS** with Ollama provides a no-embeddings, LLM-compiled wiki.
+🧰 **Frameworks for building custom systems**: Combine **Onyx** for organizational context, **Khoj** for personal file indexing, **mem0**, **Letta**, **Cognee** or **Zep** for agent memory, and **MCP servers** (Dewey, Griot, nbrag, Flexible GraphRAG MCP) for agent tool integration. For GraphRAG, layer in **Neo4j** with **SemantixRAG** or **Microsoft GraphRAG**. For document-first assistants, reach for **AnythingLLM**, **Quivr** or **DocsGPT**; for full retrieval pipelines use **Haystack**, **txtai** or **LlamaIndex**. For lightweight personal systems, **KaaS** with Ollama provides a no-embeddings, LLM-compiled wiki.
 
 
 
-## Frequently Asked Questions (FAQ)
+## ❓ Frequently Asked Questions (FAQ)
 
-**What is an LLM knowledge system?**  
+❓ **What is an LLM knowledge system?**  
 An LLM knowledge system connects large language models to your notes, documents and organizational data — through retrieval-augmented generation (RAG), knowledge graphs and memory layers — so AI answers are grounded in your actual knowledge instead of model guesses.
 
-**What is the difference between RAG and agent memory?**  
+❓ **What is the difference between RAG and agent memory?**  
 RAG retrieves relevant documents at query time (LlamaIndex, Haystack, GraphRAG), while agent memory persists what an AI agent has learned across sessions (mem0, Letta, MemoryOS, Zep). Most production AI assistants use both.
 
-**Which are the best free AI knowledge-management tools?**  
+❓ **Which are the best free AI knowledge-management tools?**  
 For individuals: Obsidian (free forever for personal and commercial use), Capacities and Notion's free plan. For self-hosted teams: Onyx (open-source Glean alternative), Khoj and AnythingLLM — all free to self-host.
 
-**Is there an open-source alternative to Glean or Notion AI?**  
+❓ **Is there an open-source alternative to Glean or Notion AI?**  
 Yes — **Onyx** is the leading open-source enterprise-search alternative to Glean, while **Khoj**, **Quivr** and **AnythingLLM** cover personal and team knowledge Q&A you can fully self-host.
 
 
 
-## How to Contribute
+## 🤝 How to Contribute
 
 
 
-1. Fork the repo.
+1. 🍴 Fork the repo.
 
-2. Add/edit entries in `README.md` (follow existing format).
+2. ✏️ Add/edit entries in `README.md` (follow existing format).
 
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+3. 📋 Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
 
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
+4. 🚀 Submit PR with a short explanation.
 
 
 
-## Disclaimer
+⭐ Star the repo if you find it useful!
+
+
+
+## ⚠️ Disclaimer
 
 
 
@@ -251,5 +251,5 @@ Star the repo if you find it useful!
 
 
 
-**Made for knowledge workers, researchers, AI engineers, and privacy-conscious organizations.**  
+✨ **Made for knowledge workers, researchers, AI engineers, and privacy-conscious organizations.**  
 Let's make knowledge systems more open, local-first, and vendor-neutral.
