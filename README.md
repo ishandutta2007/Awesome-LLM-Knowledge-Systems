@@ -2,8 +2,6 @@
 
 ## Top LLM Knowledge Systems Ecosystem
 
-
-
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 
 *Focused on Personal Knowledge Management, Organizational Context Layers & Agent Memory Systems*  
@@ -42,67 +40,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+Pricing verified as of October 2026. "Free tier" states the exact free-forever limits, or the length/limits of the free trial when no free plan exists.
 
-
-- **[Notion AI](https://www.notion.so/product/ai)**  
-
-  AI writing assistant and Q&A system integrated into Notion workspace; indexes pages for contextual answers but only within Notion's cloud ecosystem .
-
-
-
-- **[Glean](https://www.glean.com/)**  
-
-  Enterprise search and knowledge discovery platform that connects to 100+ SaaS applications to build an organizational knowledge graph with AI-powered answers.
-
-
-
-- **[Guru AI](https://www.getguru.com/)**  
-
-  Knowledge management platform with AI-powered verification, card-based content, and Slack/Teams integration for internal team knowledge.
-
-
-
-- **[Slite AI](https://slite.com/)**  
-
-  Collaborative knowledge base with AI Q&A, automatic content suggestions, and team wiki features.
-
-
-
-- **[Coda AI](https://coda.io/product/ai)**  
-
-  AI-enhanced document platform combining docs, spreadsheets, and automation with AI summarization and content generation.
-
-
-
-- **[Mem.ai](https://mem.ai/)**  
-
-  AI-powered note-taking system with automatic organization, smart search, and self-organizing knowledge base capabilities; no self-host option available .
-
-
-
-- **[Capacities](https://capacities.io/)**  
-
-  Note-taking app with object-based organization (people, books, ideas) and AI-powered connections between notes.
-
-
-
-- **[Tana](https://tana.inc/)**  
-
-  Node-based knowledge management with AI-powered supertags, automatic meeting notes, and structured data capture.
-
-
-
-- **[Roam Research](https://roamresearch.com/)**  
-
-  Bi-directional linking note-taking tool with graph database foundation and AI features for networked thought.
-
-
-
-- **[Obsidian Sync](https://obsidian.md/sync)**  
-
-  Official sync service for Obsidian's local-first markdown vaults; end-to-end encrypted but AI features require third-party plugins or external tools.
-
-
+| Product | Description | Pricing (cheapest paid plan) | Free Tier / Trial Limits |
+| --- | --- | --- | --- |
+| **[Notion AI](https://www.notion.so/product/ai)** | AI writing assistant and Q&A system integrated into Notion workspace; indexes pages for contextual answers but only within Notion's cloud ecosystem. | **Business (AI included): $20/seat/mo billed annually** ($24/mo monthly); standalone AI credit packs at **$10 per 1,000 monthly credits**. | **Free plan**: unlimited blocks for a 1-person workspace; **1,000-block cap** for workspaces with 2+ members; 10 guests; files ≤5 MB; limited complimentary AI answers. **30-day** Business trial for eligible teams. |
+| **[Glean](https://www.glean.com/)** | Enterprise search and knowledge discovery platform that connects to 100+ SaaS applications to build an organizational knowledge graph with AI-powered answers. | **Enterprise contract, sales-quoted** — no public self-serve per-seat price published. | **No free-forever plan**; demo-led **time-boxed POC trial arranged with sales** (duration/limits not published; confirmed only via sales in the website terms). |
+| **[Guru AI](https://www.getguru.com/)** | Knowledge management platform with AI-powered verification, card-based content, and Slack/Teams integration for internal team knowledge. | **Custom scoped contract (sales-quoted)** — the former public Starter ($10/seat class) per-seat tiers are no longer listed. | **No public free plan currently** (the earlier Starter tier was free for the **first 10 users**); **no published trial length** on the live pricing page. |
+| **[Slite AI](https://slite.com/)** | Collaborative knowledge base with AI Q&A, automatic content suggestions, and team wiki features. | **Basic: $10/user/mo billed annually**; **Pro: $20/user/mo billed annually** (30 AI questions/mo on Basic; 50 credits/seat/mo on Pro). | **No free-forever plan**; **14-day free trial**, no credit card, full Basic/Pro feature access. |
+| **[Coda AI](https://coda.io/product/ai)** *(now Superhuman Docs)* | AI-enhanced document platform combining docs, spreadsheets, and automation with AI summarization and content generation (acquired by Grammarly, 2024). | **Pro: $12/Doc Maker/mo billed annually** ($15 monthly); **Business: $33/Doc Maker/mo annual**; editors & viewers free. | **Free plan**: unlimited members; shared docs capped at **50 objects and 1,000 table rows**, **1 GB/doc** attachments, **10 MB/file**; AI on a limited free credit allotment. |
+| **[Mem.ai](https://mem.ai/)** | AI-powered note-taking system with automatic organization, smart search, and self-organizing knowledge base capabilities; no self-host option available. Now positioned as an AI "chief of staff" (Mem Agent). | **Mem Plus: $9/mo** (monthly billing shown). | **Free plan**: **25 messages** to Mem Agent + **25 new notes per month**. |
+| **[Capacities](https://capacities.io/)** | Note-taking app with object-based organization (people, books, ideas) and AI-powered connections between notes. | **Pro: $9.99/mo billed yearly** (Believer tier from $12.49/mo; students 40% off ≈ $5.99/mo). | **Free plan**: unlimited spaces, objects and blocks; sync on all devices; **5 GB total media storage, then 100 MB/mo**. |
+| **[Tana](https://tana.inc/)** | Node-based knowledge management with AI-powered supertags, automatic meeting notes, and structured data capture. | **Pro: $20/user/mo early-bird** ($30/user/mo regular rate). | **Free plan**: **5 AI-transcribed/summarized meetings/mo**, **1 connected calendar**, **50 AI queries**; **30-day Pro trial**, no credit card. |
+| **[Roam Research](https://roamresearch.com/)** | Bi-directional linking note-taking tool with graph database foundation and AI features for networked thought. | **Pro: $165/yr per user** (≈$13.75/mo); or **$15/mo** billed monthly. | **No free-forever plan**; **31-day free trial**. |
+| **[Obsidian Sync](https://obsidian.md/sync)** | Official sync service for Obsidian's local-first markdown vaults; end-to-end encrypted but AI features require third-party plugins or external tools. | **Sync Standard: $4/user/mo billed annually** ($5 monthly) — 1 vault, 1 GB storage, 5 MB max file, 1 month version history. | **Obsidian app is free forever** for personal and commercial use (local-first markdown, no device limits); the **Sync service itself has no free tier**; optional one-time **$25 Catalyst** license. |
 
 ## Open-Source GitHub Projects
 
@@ -241,7 +192,4 @@ Star the repo if you find it useful!
 
 
 **Made for knowledge workers, researchers, AI engineers, and privacy-conscious organizations.**  
-
 Let's make knowledge systems more open, local-first, and vendor-neutral.
-# Awesome-LLM-Knowledge-Systems
-
