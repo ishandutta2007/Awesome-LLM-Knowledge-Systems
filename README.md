@@ -1,4 +1,6 @@
-# Awesome-LLM-Knowledge-Systems
+# Awesome LLM Knowledge Systems — RAG, Agent Memory & AI Knowledge Management
+
+> The **Awesome-LLM-Knowledge-Systems** list: the best **LLM knowledge systems**, **AI knowledge-management software**, **RAG (retrieval-augmented generation) platforms**, **agent-memory frameworks**, and **self-hosted "second brain" tools** — curated SaaS and open-source GitHub projects in one place.
 
 ## Top LLM Knowledge Systems Ecosystem
 
@@ -10,7 +12,7 @@
 
 
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **LLM Knowledge Systems**. These tools transform scattered notes, documents, and organizational knowledge into queryable, AI-augmented knowledge bases — enabling retrieval-augmented generation (RAG), agent memory, and context-aware AI assistants.
+This repository tracks notable **SaaS platforms** and **open-source projects** for **LLM Knowledge Systems** — an **awesome list** of **AI knowledge management tools** that transform scattered notes, documents, and organizational knowledge into queryable, AI-augmented knowledge bases — enabling retrieval-augmented generation (RAG), agent memory, and context-aware AI assistants.
 
 
 
@@ -34,6 +36,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+
 - [How to Contribute](#how-to-contribute)
 
 - [Disclaimer](#disclaimer)
@@ -41,6 +45,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 ## SaaS/Hosted Platforms
+
+Curated **AI knowledge-management software** and hosted **LLM knowledge platforms** for teams — compare each product's pricing, free tier and company size below.
 
 ### Sector Overview & Market Dynamics
 
@@ -65,7 +71,7 @@ Pricing verified as of October 2026. Rows are **sorted by company size (descendi
 
 ## Open-Source GitHub Projects
 
-Every entry carries a live **star badge** (`style=social`) that links to that repository's stargazers page; the list is **sorted by GitHub stars (descending)**, star counts as of October 2026.
+**Open-source RAG frameworks, self-hosted knowledge bases, and agent-memory systems on GitHub** — every entry carries a live **star badge** (`style=social`) that links to that repository's stargazers page; the list is **sorted by GitHub stars (descending)**, star counts as of October 2026.
 
 - **[mem0](https://github.com/mem0ai/mem0)** [![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
 
@@ -186,6 +192,22 @@ Every entry carries a live **star badge** (`style=social`) that links to that re
 
 
 **Frameworks for building custom systems**: Combine **Onyx** for organizational context, **Khoj** for personal file indexing, **mem0**, **Letta**, **Cognee** or **Zep** for agent memory, and **MCP servers** (Dewey, Griot, nbrag, Flexible GraphRAG MCP) for agent tool integration. For GraphRAG, layer in **Neo4j** with **SemantixRAG** or **Microsoft GraphRAG**. For document-first assistants, reach for **AnythingLLM**, **Quivr** or **DocsGPT**; for full retrieval pipelines use **Haystack**, **txtai** or **LlamaIndex**. For lightweight personal systems, **KaaS** with Ollama provides a no-embeddings, LLM-compiled wiki.
+
+
+
+## Frequently Asked Questions (FAQ)
+
+**What is an LLM knowledge system?**  
+An LLM knowledge system connects large language models to your notes, documents and organizational data — through retrieval-augmented generation (RAG), knowledge graphs and memory layers — so AI answers are grounded in your actual knowledge instead of model guesses.
+
+**What is the difference between RAG and agent memory?**  
+RAG retrieves relevant documents at query time (LlamaIndex, Haystack, GraphRAG), while agent memory persists what an AI agent has learned across sessions (mem0, Letta, MemoryOS, Zep). Most production AI assistants use both.
+
+**Which are the best free AI knowledge-management tools?**  
+For individuals: Obsidian (free forever for personal and commercial use), Capacities and Notion's free plan. For self-hosted teams: Onyx (open-source Glean alternative), Khoj and AnythingLLM — all free to self-host.
+
+**Is there an open-source alternative to Glean or Notion AI?**  
+Yes — **Onyx** is the leading open-source enterprise-search alternative to Glean, while **Khoj**, **Quivr** and **AnythingLLM** cover personal and team knowledge Q&A you can fully self-host.
 
 
 
