@@ -247,13 +247,22 @@ Yes — **Onyx** is the leading open-source enterprise-search alternative to Gle
 
 - **License awareness**: Khoj is AGPL-3.0 (network use requires open-sourcing modifications); MemoryOS is Apache-2.0; most others are MIT — verify terms before commercial deployment .
 
-- Local-first tools require your own backup strategy; self-hosted solutions require infrastructure maintenance and security updates.
+- Local-first tools require your own backup strategy; self-hosted solutions require infrastructure maintenance and security updates.## 📈 Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-LLM-Knowledge-Systems&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-LLM-Knowledge-Systems&type=date&legend=top-left)
 
+## 🙌 Support
+
+**Thank you** for visiting *Awesome LLM Knowledge Systems* — and for taking the time to explore this curated list of SaaS and open-source AI knowledge-management tools! If it helps you discover the right RAG platform, agent-memory framework, or self-hosted second brain, please consider supporting its upkeep:
+
+- ⭐ **Star** this repository — it takes one click and helps others find the list
+- 🍴 **Fork** it to curate your own variant or experiment with new sections
+- 🔁 **Share** it with your team, on social media, or in your newsletter
+- 🛠️ **Contribute** — PRs adding or updating entries are always welcome
+
+Enjoying the list? **Buy me a coffee** ☕ — support the project through the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**.
 
 ---
-
-
 
 ✨ **Made for knowledge workers, researchers, AI engineers, and privacy-conscious organizations.**  
 Let's make knowledge systems more open, local-first, and vendor-neutral.
